@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://highlighters.site/" target="_blank">
+  <a href="https://live-board-psi.vercel.app/" target="_blank">
     <img src="./src/assets/readme/liveBoardLogoReadme.png" alt="Logo" width="" height="">
   </a>
 
